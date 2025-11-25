@@ -50,6 +50,7 @@ Aquí algunos proyectos que he desarrollado y que reflejan mis habilidades:
 - **Plataforma virtual para abordaje endonasal con robot colaborativo**
 
 Tecnologías: ROS, Python, C#
+
 Software: Unity, Blender, 3D Slicer, OptiTrack, URSim
 
 Desarrollé una plataforma virtual en la que se realiza un abordaje endonasal a un phantom de cráneo utilizando un robot colaborativo UR3e.
@@ -66,7 +67,9 @@ Implementación de sistemas de seguridad dentro del entorno virtual y robótico.
 - **API REST para la red social educativa SomosHenry**
 
 Tecnologías: TypeScript, Node.js, NestJS, PostgreSQL
+
 Servicios: Cloudinary, MercadoPago
+
 Documentación: Swagger
 
 Desarrollo del backend de una red social educativa con funcionalidades de usuarios, publicaciones, comentarios, chat en tiempo real y notificaciones.
