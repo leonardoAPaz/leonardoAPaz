@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # 👋 Hola, soy Leonardo A. Paz
 
-Soy **Ingeniero en Automática Industrial** por la Universidad del Cauca y desarrollador Full-Stack.  
+Soy **Ingeniero en Automática Industrial** y desarrollador **Full-Stack**.  
 Actualmente estoy en **Elche, España**, trabajando y aprendiendo en el cruce entre automatización industrial, robótica y desarrollo web.
 
 ---
@@ -35,7 +35,7 @@ Actualmente estoy en **Elche, España**, trabajando y aprendiendo en el cruce en
 
 - **Ingeniería / Automatización:** ROS, MATLAB, SolidWorks  
 - **Backend:** Node.js, NestJS, Postgres  
-- **Frontend:** Typescript, React (si lo has usado)  
+- **Frontend:** Typescript, React
 - **Desarrollo de juegos / simulación:** Unity  
 - **Entorno / herramientas:** Linux, Git, Docker (si lo usas)
 
@@ -55,10 +55,10 @@ Aquí algunos proyectos que he desarrollado y que reflejan mis habilidades:
 
 ## 📬 Cómo contactarme
 
-- LinkedIn: [tu perfil]  
-- Email: tuemail@ejemplo.com  
-- Portfolio / web (si tienes): enlace  
-- (Opcional) Twitter / Discord / lo que uses profesionalmente
+- LinkedIn: www.linkedin.com/in/leonardo-alberto-paz-paz-958160305  
+- Email: leopaz@unicauca.edu.co  
+<!--- Portfolio / web (si tienes): enlace-->  
+- Discord: leon_demand0297
 
 ---
 
@@ -69,9 +69,9 @@ Aquí algunos proyectos que he desarrollado y que reflejan mis habilidades:
 - Modelado con **Simulación física en Unity**
 
 ---
-
+<!--
 ## 🎯 Fun fact
 
-Cuando no estoy programando o simulando, me gusta [puedes poner algo personal: pintar, hacer senderismo, ver fútbol…].
+Cuando no estoy programando o simulando, me gusta [puedes poner algo personal: pintar, hacer senderismo, ver fútbol…].-->
 
 
