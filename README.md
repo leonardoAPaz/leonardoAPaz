@@ -26,8 +26,8 @@ Actualmente estoy en **Elche, España**, trabajando y aprendiendo en el cruce en
 
 - Automatización y control industrial (ROS, PLCs, simulaciones)  
 - Desarrollo de aplicaciones web con Typescript / Nest / Postgres  
-- Simulación y modelado: MATLAB, SolidWorks  
-- Desarrollo de videojuegos o entornos 3D con **Unity**
+- Simulación y modelado con MATLAB, SolidWorks  
+- Desarrollo de videojuegos o entornos 3D con Unity
 
 ---
 
@@ -37,7 +37,7 @@ Actualmente estoy en **Elche, España**, trabajando y aprendiendo en el cruce en
 - **Backend:** Node.js, NestJS, Postgres  
 - **Frontend:** Typescript, React
 - **Desarrollo de juegos / simulación:** Unity  
-- **Entorno / herramientas:** Linux, Git, Docker (si lo usas)
+- **Entorno / herramientas:** Linux, Git, Docker
 
 ---
 
@@ -45,11 +45,46 @@ Actualmente estoy en **Elche, España**, trabajando y aprendiendo en el cruce en
 
 Aquí algunos proyectos que he desarrollado y que reflejan mis habilidades:
 
-- **Project A** — descripción breve, qué tecnologías usaste, qué lograste  
-- **Project B** — lo mismo  
-- **Project C** — …
+<!--- **Project A** — descripción breve, qué tecnologías usaste, qué lograste-->
 
-*(Estos pueden ser repositorios que ya tienes o en los que planeas trabajar. Cuando tengas unos 3-5, ancla (“pin”) esos repositorios en GitHub para que la gente los vea fácilmente.)*
+- **Plataforma virtual para abordaje endonasal con robot colaborativo**
+
+Tecnologías: ROS, Python, C#
+Software: Unity, Blender, 3D Slicer, OptiTrack, URSim
+
+Desarrollé una plataforma virtual en la que se realiza un abordaje endonasal a un phantom de cráneo utilizando un robot colaborativo UR3e.
+Mis tareas incluyeron:
+
+Registro entre el modelo virtual del cráneo y el phantom real.
+
+Implementación del algoritmo que transformaba la orientación de la pinza endoscópica en ángulos de rotación para el robot.
+
+Diseño de trayectorias endonasales.
+
+Implementación de sistemas de seguridad dentro del entorno virtual y robótico.
+
+- **API REST para la red social educativa SomosHenry**
+
+Tecnologías: TypeScript, Node.js, NestJS, PostgreSQL
+Servicios: Cloudinary, MercadoPago
+Documentación: Swagger
+
+Desarrollo del backend de una red social educativa con funcionalidades de usuarios, publicaciones, comentarios, chat en tiempo real y notificaciones.
+Responsabilidades principales:
+
+Diseño del DER de la base de datos.
+
+Implementación del CRUD de publicaciones (Posts).
+
+Sistema de gestión de archivos con almacenamiento en Cloudinary.
+
+CRUD de pagos y suscripciones utilizando MercadoPago.
+
+Filtros avanzados de búsqueda para posts y usuarios.
+
+Endpoints para gestión de recursos en cohortes.
+
+Documentación del servicio en Swagger.
 
 ---
 
