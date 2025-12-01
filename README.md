@@ -24,7 +24,7 @@ Actualmente estoy en **Elche, España**, trabajando y aprendiendo en el cruce en
 
 ## 🚀 Qué hago y en qué estoy
 
-- Automatización y control industrial (ROS, PLCs, simulaciones)  
+- Automatización y control industrial (ROS, PLCs, HMI/SCADA, instrumentación y redes industriales)
 - Desarrollo de aplicaciones web con Typescript / Nest / Postgres  
 - Simulación y modelado con MATLAB, SolidWorks  
 - Desarrollo de videojuegos o entornos 3D con Unity
