@@ -17,13 +17,11 @@ Here are some ideas to get you started:
 
 # 👋 Hola, soy Leonardo A. Paz
 
-💼 **Desarrollador Full Stack** con formación en **Ingeniería en Automática Industrial**.  
-📍 Actualmente radicado en Elche, España.  
-🎯 Mi pasión es aplicar el **pensamiento lógico, sistémico y de automatización** de la ingeniería para construir **software robusto, eficiente y bien estructurado**.
+Soy **Desarrollador Full Stack** con formación en **Ingeniería en Automática Industrial**, actualmente radicado en Elche, España. Mi pasión es aplicar el **pensamiento lógico, sistémico y de automatización** de la ingeniería para construir **software robusto, eficiente y bien estructurado**.
 
 ---
 
-## 🚀 En qué me enfoco actualmente
+## 🚀 Enfoque actual
 
 <!--- Automatización y control industrial (ROS, PLCs, HMI/SCADA, instrumentación y redes industriales)
 - Desarrollo de aplicaciones web con Typescript / Nest / Postgres  
