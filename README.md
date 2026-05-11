@@ -36,10 +36,11 @@ Soy **Desarrollador Full Stack** con formación en **Ingeniería en Automática 
 
 ## 💻 Tecnologías que uso
 
-- **Backend:** `Node.js` | `NestJS` | `TypeScript` | `PostgreSQL`  
-- **Frontend:** `React` | `TypeScript`  
-- **Herramientas & Entorno:** `Git` | `Docker` | `Linux` | `AWS (en aprendizaje)`  
-- **Áreas de Conocimiento Complementario:** `Unity` | `ROS` | `MATLAB` | `SolidWorks`
+- **Backend:** `Node.js` | `NestJS` | `TypeScript` | `PostgreSQL` | `Redis` | `TypeORM` 
+- **Frontend:** `React` | `Next.js` | `TypeScript`| `Tailwind CSS`
+- **Integraciones & Servicios:** `Mercado Pago` | `Resend` | `Twilio`| `Google OAuth 2.0` | `JWT` 
+- **Herramientas & DevOps:** `Git` | `Docker` | `Railway` | `Vercel` | `Supabase` | `Linux` | `AWS (en aprendizaje)`  
+- **Áreas de Conocimiento Complementario:** `Unity` | `Blender` | `MATLAB` | `SolidWorks` | `ROS`
 
 ---
 
@@ -49,22 +50,35 @@ Aquí algunos proyectos que he desarrollado y que reflejan mis habilidades:
 
 <!--- **Project A** — descripción breve, qué tecnologías usaste, qué lograste-->
 
-- **Plataforma virtual para abordaje endonasal con robot colaborativo**
+- **Sistema de Gestión de Turnos Médicos**
 
-Tecnologías: ROS, Python, C#
+Backend completo para consultorio de medicina estética | Estado: En producción
 
-Software: Unity, Blender, 3D Slicer, OptiTrack, URSim
+Stack: NestJS • TypeScript • PostgreSQL • Redis • Mercado Pago • Resend • pdf-lib • Twilio
+Deploy: Railway (Backend) + Vercel (Frontend)
+Desarrollé el 85% del backend (~15,000 líneas de código), implementando:
 
-Desarrollé una plataforma virtual en la que se realiza un abordaje endonasal a un phantom de cráneo utilizando un robot colaborativo UR3e.
-Mis tareas incluyeron:
+Sistema de autenticación completo (JWT + Google OAuth 2.0)
+Gestión de turnos con validaciones automáticas de disponibilidad
+Integración con Mercado Pago para pagos online (producción)
+Sistema de gift cards digitales con generación automática de PDF
+Módulo de reseñas con aprobación de administrador
+Automatización de emails (confirmación, recordatorios con cron jobs)
+Notificaciones WhatsApp preparadas (Twilio - colaboración)
+SEO optimization (sitemap.xml, robots.txt, structured data - colaboración)
 
-Registro entre el modelo virtual del cráneo y el phantom real.
+Arquitectura:
 
-Implementación del algoritmo que transformaba la orientación de la pinza endoscópica en ángulos de rotación para el robot.
+13 módulos backend con separación de responsabilidades
+Sistema de guards y roles granulares
+Rate limiting y seguridad con Helmet
+Email templates personalizados con Resend
+Cron jobs para recordatorios automáticos (24h y 2h antes)
+PDF generation con template personalizado del cliente
 
-Diseño de trayectorias endonasales.
-
-Implementación de sistemas de seguridad dentro del entorno virtual y robótico.
+Cliente: Dra. Jaqueline Grassetti - Rosario, Argentina
+Duración: 1 mes | Equipo: Tech Lead + 1 colaborador puntual
+Sitio Web: https://www.drajaquelinagrassetti.com/
 
 - **API REST para la red social educativa SomosHenry**
 
@@ -90,6 +104,23 @@ Filtros avanzados de búsqueda para posts y usuarios.
 Endpoints para gestión de recursos en cohortes.
 
 Documentación del servicio en Swagger.
+
+- **Plataforma virtual para abordaje endonasal con robot colaborativo**
+
+Tecnologías: ROS, Python, C#
+
+Software: Unity, Blender, 3D Slicer, OptiTrack, URSim
+
+Desarrollé una plataforma virtual en la que se realiza un abordaje endonasal a un phantom de cráneo utilizando un robot colaborativo UR3e.
+Mis tareas incluyeron:
+
+Registro entre el modelo virtual del cráneo y el phantom real.
+
+Implementación del algoritmo que transformaba la orientación de la pinza endoscópica en ángulos de rotación para el robot.
+
+Diseño de trayectorias endonasales.
+
+Implementación de sistemas de seguridad dentro del entorno virtual y robótico.
 
 ---
 
