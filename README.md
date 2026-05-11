@@ -55,45 +55,29 @@ Aquí algunos proyectos que he desarrollado y que reflejan mis habilidades:
 Backend completo para consultorio de medicina estética | Estado: En producción
 
 Stack: NestJS • TypeScript • PostgreSQL • Redis • Mercado Pago • Resend • pdf-lib • Twilio
-
 Deploy: Railway (Backend) + Vercel (Frontend)
-
 Desarrollé el 85% del backend (~15,000 líneas de código), implementando:
 
 Sistema de autenticación completo (JWT + Google OAuth 2.0)
-
 Gestión de turnos con validaciones automáticas de disponibilidad
-
 Integración con Mercado Pago para pagos online (producción)
-
 Sistema de gift cards digitales con generación automática de PDF
-
 Módulo de reseñas con aprobación de administrador
-
 Automatización de emails (confirmación, recordatorios con cron jobs)
-
 Notificaciones WhatsApp preparadas (Twilio - colaboración)
-
 SEO optimization (sitemap.xml, robots.txt, structured data - colaboración)
 
 Arquitectura:
 
 13 módulos backend con separación de responsabilidades
-
 Sistema de guards y roles granulares
-
 Rate limiting y seguridad con Helmet
-
 Email templates personalizados con Resend
-
 Cron jobs para recordatorios automáticos (24h y 2h antes)
-
 PDF generation con template personalizado del cliente
 
 Cliente: Dra. Jaqueline Grassetti - Rosario, Argentina
-
 Duración: 1 mes | Equipo: Tech Lead + 1 colaborador puntual
-
 Sitio Web: https://www.drajaquelinagrassetti.com/
 
 - **API REST para la red social educativa SomosHenry**
